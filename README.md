@@ -1,8 +1,8 @@
 # 
 https://adyhwang.github.io/demo
 
-<img width="1077" height="1133" alt="main" src="https://github.com/user-attachments/assets/e4d848bf-b0b0-455b-b391-bcefa8a00063" />
-![IconBattle](https://github.com/user-attachments/assets/63709666-c6d1-4ac7-bc92-ba2f52495e69)
+<img width="800" alt="main" src="https://github.com/user-attachments/assets/e4d848bf-b0b0-455b-b391-bcefa8a00063" />
+<img width="800" alt="icon" src="https://github.com/user-attachments/assets/63709666-c6d1-4ac7-bc92-ba2f52495e69" />
 <img width="300" alt="3md" src="https://github.com/user-attachments/assets/cc178edb-369d-4592-a2f1-88822c13bc23" />
 <img width="350" alt="2tp" src="https://github.com/user-attachments/assets/a93e16f8-ca58-4fbe-a4a4-e2aeb44b11c0" />
 <img width="350" alt="1mpg" src="https://github.com/user-attachments/assets/a68d72a8-01dd-44dc-a6e6-dbb7ef0ee84c" />
